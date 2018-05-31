@@ -63,6 +63,6 @@ virtualDS
 vmstat
 watchlists
 zwave
-) do xcopy ..\..\Mango3.3\web\modules\%%i\classes\i18n.properties .\modules\%%i\classes\ /Y
-xcopy ..\..\Mango3.3\classes\i18n.properties .\modules\lang_zh\classes\ /Y
+) do xcopy ..\..\Mango3\web\modules\%%i\classes\i18n.properties .\modules\%%i\classes\ /Y
+xcopy ..\..\Mango3\classes\i18n.properties .\modules\lang_zh\classes\ /Y
 pause
