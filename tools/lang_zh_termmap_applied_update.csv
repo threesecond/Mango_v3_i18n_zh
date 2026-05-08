@@ -1,0 +1,4 @@
+key,old_value,new_value
+common.point,點,點位
+common.cronPattern,Cron 模式,Cron 表達式
+dsEdit.cronPattern,Cron 模式,Cron 表達式

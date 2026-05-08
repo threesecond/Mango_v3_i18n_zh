@@ -1,0 +1,8 @@
+key,old_value,new_value
+common.imageChart,圖像圖,圖表
+common.point,觀點,點
+common.remove,消除,移除
+common.set,放,設定
+common.cronPattern,克朗模式,Cron 模式
+dsEdit.cronPattern,克朗模式,Cron 模式
+pointDetails.set,放,設定

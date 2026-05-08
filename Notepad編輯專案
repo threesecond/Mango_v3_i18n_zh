@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1968" startPos="1" endPos="1" selMode="0" offset="0" wrapCount="1" lang="Properties" encoding="-1" userReadOnly="no" filename="D:\OneDrive\Github\Mango_v3_i18n_zh\modules\mangoUI\classes\i18n_zh.properties" backupFilePath="" originalFileLastModifTimestamp="-611658624" originalFileLastModifTimestampHigh="30820643" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="7274574" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1968" startPos="405" endPos="405" selMode="0" offset="0" wrapCount="1" lang="Properties" encoding="-1" userReadOnly="no" filename="D:\OneDrive\Github\Mango_v3_i18n_zh\modules\mangoUI\classes\i18n.properties" backupFilePath="" originalFileLastModifTimestamp="1678592768" originalFileLastModifTimestampHigh="30814842" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="7274574" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </subView>
+    </Session>
+</NotepadPlus>

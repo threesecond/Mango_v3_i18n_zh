@@ -5,6 +5,7 @@ advancedComponents
 advancedScheduler
 asciiFile
 BACnet
+cloudConnect
 controlcore
 dashboardDesigner
 dataFile
@@ -50,6 +51,7 @@ reports
 scheduledEvents
 scripting
 serial
+slackPublisher
 snmp
 sqlConsole
 sqlds

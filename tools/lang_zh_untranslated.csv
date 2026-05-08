@@ -1,0 +1,881 @@
+key,english,zh_value,reason
+blank,,,empty
+literal,{0},{0},same_as_english
+common.imageChart,Image chart,Image chart,same_as_english
+common.point,Point,Point,same_as_english
+common.points,Points,Points,same_as_english
+common.remove,Remove,Remove,same_as_english
+common.copyPrefix,Copy of {0},Copy of {0},same_as_english
+common.set,Set,Set,same_as_english
+common.gettingData,Getting data...,Getting data...,same_as_english
+common.emailSent,Email was sent to ''{0}'',Email was sent to ''{0}'',same_as_english
+common.emailSentToMailingList,Email was sent to mailing list with xid {0},Email was sent to mailing list with xid {0},same_as_english
+common.nortn,No RTN,No RTN,same_as_english
+common.cronPattern,Cron pattern,Cron pattern,same_as_english
+common.noMessage,,,empty
+common.default,{0},{0},same_as_english
+common.configuration,Configuration,Configuration,same_as_english
+common.xid,Export ID (XID),Export ID (XID),same_as_english
+common.valueUnreliable,Point value may not be reliable,Point value may not be reliable,same_as_english
+common.rendered,Rendered,Rendered,same_as_english
+common.validate,Validate,Validate,same_as_english
+common.updated,updated,updated,same_as_english
+common.discardChangesLong,"You have made changes to '{0}', please press OK to confirm that you want to discard your changes.","You have made changes to '{0}', please press OK to confirm that you want to discard your changes.",same_as_english
+common.confirmDelete,Delete?,Delete?,same_as_english
+common.confirmDeleteLong,Please press OK to confirm that you want to delete '{0}'.,Please press OK to confirm that you want to delete '{0}'.,same_as_english
+common.success,Success,Success,same_as_english
+common.confirmDeleteSelected,Please press OK to confirm that you want to delete the selected items.,Please press OK to confirm that you want to delete the selected items.,same_as_english
+common.run,Run,Run,same_as_english
+common.scheduled,Scheduled,Scheduled,same_as_english
+common.rollup,Rollup,Rollup,same_as_english
+common.rollup.delta,Delta,Delta,same_as_english
+common.rollup.count,Count,Count,same_as_english
+common.rollup.start,Start,Start,same_as_english
+common.relativeDateType.toDate,To date,To date,same_as_english
+common.first,First,First,same_as_english
+common.state,State,State,same_as_english
+common.processLogs,Process logs,Process logs,same_as_english
+common.access.read,read,read,same_as_english
+common.dataTypes.multistate,Multistate,Multistate,same_as_english
+common.dataTypes.alphanumeric,Alphanumeric,Alphanumeric,same_as_english
+common.stats.end,End,End,same_as_english
+common.stats.starts,Starts,Starts,same_as_english
+common.stats.proportion,Proportion,Proportion,same_as_english
+common.stats.max,Maximum,Maximum,same_as_english
+common.stats.sum,Sum,Sum,same_as_english
+common.stats.delta,Delta,Delta,same_as_english
+common.stats.integral,Integral,Integral,same_as_english
+common.alarmLevel,Alarm level,Alarm level,same_as_english
+common.counting.st,{0}st,{0}st,same_as_english
+common.counting.nd,{0}nd,{0}nd,same_as_english
+common.counting.rd,{0}rd,{0}rd,same_as_english
+common.counting.th,{0}th,{0}th,same_as_english
+common.tp.description,{0} {1},{0} {1},same_as_english
+common.durationStd,{0},{0},same_as_english
+annotation.email.setPointMessage,Email handler {0} script,Email handler {0} script,same_as_english
+dox.dir,,,empty
+dox.eventDetectors.general,General event detector help,General event detector help,same_as_english
+dox.eventDetectors.rateOfChange,Rate of change detector,Rate of change detector,same_as_english
+dox.eventDetectors.change,Change detector,Change detector,same_as_english
+dox.eventDetectors.noChange,No change detector,No change detector,same_as_english
+dox.eventDetectors.noUpdate,No update detector,No update detector,same_as_english
+dox.eventDetectors.state,State detector,State detector,same_as_english
+dox.eventDetectors.stateChangeCount,State change count detector,State change count detector,same_as_english
+dox.eventDetectors.highLimit,High limit detector,High limit detector,same_as_english
+dox.eventDetectors.lowLimit,Low limit detector,Low limit detector,same_as_english
+dox.eventDetectors.analogChange,Analog Change detector,Analog Change detector,same_as_english
+dox.eventDetectors.range,Range detector,Range detector,same_as_english
+dox.eventDetectors.positiveCusum,Positive CUSUM detector,Positive CUSUM detector,same_as_english
+dox.eventDetectors.negativeCusum,Negative CUSUM detector,Negative CUSUM detector,same_as_english
+dox.eventDetectors.smoothness,Smoothness detector,Smoothness detector,same_as_english
+dox.spinwaveDS,Spinwave data source,Spinwave data source,same_as_english
+dox.eventReport,Alarm Report,Alarm Report,same_as_english
+dox.chartServlet,Chart Servlet,Chart Servlet,same_as_english
+dox.mangoJavaScript,Java Script,Java Script,same_as_english
+dox.threadPoolSettings,Thread pool settings,Thread pool settings,same_as_english
+dox.serialSocketBridge,Serial socket bridge,Serial socket bridge,same_as_english
+ftl.htmlFooter.mango,Mango Automation,Mango Automation,same_as_english
+ftl.subject.alias,{0} ({1}),{0} ({1}),same_as_english
+ftl.subject.alias.id,{0} ({1}) - id:{2},{0} ({1}) - id:{2},same_as_english
+ftl.passwordReset.body,Visit the following link to reset your password.,Visit the following link to reset your password.,same_as_english
+ftl.passwordReset.resetYourPassword,Reset your password,Reset your password,same_as_english
+ftl.passwordReset.passwordResetToken,Password reset token:,Password reset token:,same_as_english
+ftl.emailVerification.subject,Email verification request from {0},Email verification request from {0},same_as_english
+ftl.emailVerification.body,Visit the following link to confirm your email address.,Visit the following link to confirm your email address.,same_as_english
+ftl.emailVerification.confirmYourEmail,Confirm your email address,Confirm your email address,same_as_english
+ftl.emailVerification.verificationToken,Verification token:,Verification token:,same_as_english
+ftl.emailVerification.warningSubject,Email verification warning from {0},Email verification warning from {0},same_as_english
+ftl.emailVerification.warningBody,"Someone publicly requested to confirm your email address, only new users should do this via the public api.","Someone publicly requested to confirm your email address, only new users should do this via the public api.",same_as_english
+ftl.userApproved.subject,User account for {0} has been approved,User account for {0} has been approved,same_as_english
+ftl.userApproved.body,"Your account is active, you can login here {0}","Your account is active, you can login here {0}",same_as_english
+modules.guid,GUID,GUID,same_as_english
+modules.restartScheduledX,Mango will restart in {0}.,Mango will restart in {0}.,same_as_english
+modules.restartScheduledByX,A restart was scheduled by {0}. Mango will restart in {1}.,A restart was scheduled by {0}. Mango will restart in {1}.,same_as_english
+modules.restartScheduledByImmediately,A restart was scheduled by {0}. Mango will restart immediately.,A restart was scheduled by {0}. Mango will restart immediately.,same_as_english
+modules.versionCheck.notes,(notes),(notes),same_as_english
+modules.versionCheck.storeNotSet,"store.url environment property blank, cannot check for updates","store.url environment property blank, cannot check for updates",same_as_english
+modules.versionCheck.storeResponseEmpty,Store response was empty,Store response was empty,same_as_english
+dsDetils.asof,(as of {0}),(as of {0}),same_as_english
+dsEdit.useCron,Use cron,Use cron,same_as_english
+dsEdit.cronPattern,Cron pattern,Cron pattern,same_as_english
+dsEdit.pointEvent.update,Update,Update,same_as_english
+dsEdit.pointEvent.change,Change,Change,same_as_english
+dsEdit.pointEvent.logged,Logged,Logged,same_as_english
+dsEdit.pointEvent.none,No trigger,No trigger,same_as_english
+dsEdit.pointEvent.cron,Cron trigger,Cron trigger,same_as_english
+dsEdit.unableToDeleteDueToConstraints,Unable to delete due to database constraints,Unable to delete due to database constraints,same_as_english
+dsEdit.events.noEvents,No events for this data source type,No events for this data source type,same_as_english
+dsEdit.points.points,Points,Points,same_as_english
+dsEdit.validate.required,Required value,Required value,same_as_english
+dsEdit.logging.purgeOverride,Override system purge settings,Override system purge settings,same_as_english
+dsEdit.logging.purge,Purge,Purge,same_as_english
+dsEdit.dataSourceType,Data source type,Data Source Type,no_cjk
+dsEdit.dataPointType,Data point type,Data point type,same_as_english
+dsEdit.ebi25,EBI25,EBI25,same_as_english
+dsEdit.ebi25.desc,EBI25 interface properties,EBI25 interface properties,same_as_english
+dsEdit.ebi25.unit.ph,pH,pH,same_as_english
+dsEdit.serial.flow.rtsCts,RTS/CTS,RTS/CTS,same_as_english
+dsEdit.serial.flow.xonXoff,Xon/Xoff,Xon/Xoff,same_as_english
+dsEdit.nmea.dpconn,{0} field {1},{0} field {1},same_as_english
+dsEdit.spinwave.listening,Listening...,Listening...,same_as_english
+dsEdit.spinwave.address,Address,Address,same_as_english
+dsEdit.spinwave.attribute,Attribute,Attribute,same_as_english
+dsEdit.viconics.panId,PAN ID,PAN ID,same_as_english
+dsEdit.viconics.ieee,IEEE,IEEE,same_as_english
+dsEdit.viconics.trss,TRSS,TRSS,same_as_english
+dsEdit.viconics.crss,CRSS,CRSS,same_as_english
+emport.exportDataPointsAsCsv,Export data points as CSV,Export data points as CSV,same_as_english
+emport.dataPoints,Data points,Data points,same_as_english
+emport.importInstruction,Paste import data into the field below and click,Paste import data into the field below and click,same_as_english
+emport.user.cannotImportCurrentUser,Importing the logged in user is not supported,Importing the logged in user is not supported,same_as_english
+emport.userPermission.prefix,Permissions for user ''{0}'': {1},Permissions for user ''{0}'': {1},same_as_english
+emport.systemSettings.prefix,''{0}'' : {1},''{0}'' : {1},same_as_english
+emport.added,added,added,same_as_english
+emport.saved,saved,saved,same_as_english
+emport.causedBy,caused by:,caused by:,same_as_english
+emport.mailingList.prefix,Mailing list ''{0}'': {1},Mailing list ''{0}'': {1},same_as_english
+emport.eventHandler.prefix,Event handler ''{0}'': {1},Event handler ''{0}'': {1},same_as_english
+emport.eventDetector.prefix,Event detector ''{0}'': {1},Event detector ''{0}'': {1},same_as_english
+emport.publisher.missingType,Publisher with XID ''{0}'' does not already exist and does not have a ''type'' value. Valid types are {1},Publisher with XID ''{0}'' does not already exist and does not have a ''type'' value. Valid types are {1},same_as_english
+emport.publisher.invalidType,Publisher with XID ''{0}'' does not already exist and has an invalid ''type'' value of ''{1}''. Valid types are {2},Publisher with XID ''{0}'' does not already exist and has an invalid ''type'' value of ''{1}''. Valid types are {2},same_as_english
+emport.publisher.prefix,Publisher ''{0}'': {1},Publisher ''{0}'': {1},same_as_english
+emport.pointValues,Point Values,Point Values,same_as_english
+emport.pointValue.id,Point Value ID,Point Value ID,same_as_english
+emport.dataPoint.xid,Data Point XID,Data Point XID,same_as_english
+emport.removed,Removed,Removed,same_as_english
+emport.errors,Errors,Errors,same_as_english
+emport.filename,Filename,Filename,same_as_english
+emport.spreadsheet.nowRows,No rows in sheet: {0},No rows in sheet: {0},same_as_english
+emport.spreadsheet.headerLengthIncorrect,"Incorrect header length in sheet ''{0}'', expected {1} but found {2}","Incorrect header length in sheet ''{0}'', expected {1} but found {2}",same_as_english
+emport.spreadsheet.headersMismatch,"Header mismatch in sheet ''{0}'' at column {1}, expected ''{2}'' but found ''{3}''","Header mismatch in sheet ''{0}'' at column {1}, expected ''{2}'' but found ''{3}''",same_as_english
+emport.spreadsheet.sheetNotFound,Sheet '{0}' not found,Sheet '{0}' not found,same_as_english
+emport.spreadsheet.rowError,"Error importing row {0}, {1}","Error importing row {0}, {1}",same_as_english
+emport.spreadsheet.modifyCellUnknown,"Invalid text in modify column, 'add' or 'delete' only allowed","Invalid text in modify column, 'add' or 'delete' only allowed",same_as_english
+emport.spreadsheet.unsupportedDataType,Unsupported data type: {0},Unsupported data type: {0},same_as_english
+emport.spreadsheet.unsupportedCellType,Unsupported cell type in column {0},Unsupported cell type in column {0},same_as_english
+emport.spreadsheet.ioError,I/O Error importing data: {0},I/O Error importing data: {0},same_as_english
+emport.spreadsheet.notString,Cell ''{0}'' is supposed to be a string,Cell ''{0}'' is supposed to be a string,same_as_english
+emport.spreadsheet.notNumberGeneric,Expected cell to be number but didn't exist,Expected cell to be number but didn't exist,same_as_english
+eventHandlers.recipTestEmailMessage,This message was sent as a test of an event handler''s email recipient list,This message was sent as a test of an event handler''s email recipient list,same_as_english
+eventHandlers.escalTestEmailMessage,This message was sent as a test of an event handler''s escalation list,This message was sent as a test of an event handler''s escalation list,same_as_english
+eventHandlers.inactiveTestEmailMessage,This message was sent as a test of an event handler''s inactive list,This message was sent as a test of an event handler''s inactive list,same_as_english
+eventHandlers.escalDelayError,Escalation delay must be greater than zero,Escalation delay must be greater than zero,same_as_english
+eventHandlers.invalidActiveValue,Invalid active value to set,Invalid active value to set,same_as_english
+eventHandlers.invalidInactiveValue,Invalid inactive value to set,Invalid inactive value to set,same_as_english
+eventHandlers.saved,Event handler has been saved,Event handler has been saved,same_as_english
+eventHandlers.eventHandlers,Event handlers,Event handlers,same_as_english
+eventHandlers.types,Event types,Event types,same_as_english
+eventHandlers.publisherEvents,Publisher events,Publisher events,same_as_english
+eventHandlers.systemEvents,System events,System events,same_as_english
+eventHandlers.auditEvents,Audit events,Audit events,same_as_english
+eventHandlers.eventHandler,Event handler,Event handler,same_as_english
+eventHandlers.type,Type,Type,same_as_english
+eventHandlers.type.email,Email,Email,same_as_english
+eventHandlers.type.emailHandler,Email handler,Email handler,same_as_english
+eventHandlers.type.process,Process,Process,same_as_english
+eventHandlers.type.processHandler,Process handler,Process handler,same_as_english
+eventHandlers.recipientType.active,Active,Active,same_as_english
+eventHandlers.recipientType.escalation,Escalation,Escalation,same_as_english
+eventHandlers.recipientType.inactive,Inactive,Inactive,same_as_english
+eventHandlers.additionalContext,Additional context,Additional context,same_as_english
+eventHandlers.alias,Alias,Alias,same_as_english
+eventHandlers.target,Target,Target,same_as_english
+eventHandlers.activeAction,Active action,Active action,same_as_english
+eventHandlers.inactiveAction,Inactive action,Inactive action,same_as_english
+eventHandlers.action.none,None,None,same_as_english
+eventHandlers.action.static,Set to static value,Set to static value,same_as_english
+eventHandlers.action.script,Set to scripted value,Set to scripted value,same_as_english
+eventHandlers.valueToSet,Value to set,Value to set,same_as_english
+eventHandlers.script,Script,Script,same_as_english
+eventHandlers.escal,Send escalation email,Send escalation,no_cjk
+eventHandlers.repeatEscal,Repeat escalation email,Repeat escalation email,same_as_english
+eventHandlers.escalPeriod,Escalate if active for,Escalate if active for,same_as_english
+eventHandlers.inactiveNotif,Send inactive email,Send inactive notification,no_cjk
+eventHandlers.inactiveOverride,Override inactive recipients,Override inactive recipients,same_as_english
+eventHandlers.activeCommand,Active process command,Active process command,same_as_english
+eventHandlers.activeTimeout,Active process timeout (s),Active process timeout (s),same_as_english
+eventHandlers.inactiveCommand,Inactive process command,Inactive process command,same_as_english
+eventHandlers.inactiveTimeout,Inactive process timeout (s),Inactive process timeout (s),same_as_english
+eventHandlers.invalidCommands,At least one process command must be provided,At least one process command must be provided,same_as_english
+eventHandlers.commandTest.title,Run the command now,Run the command now,same_as_english
+eventHandlers.commandTest.result,Check your console or the logging console page for process output,Check your console or the logging console page for process output,same_as_english
+eventHandlers.includeSystemInfo,Include system information,Include system information,same_as_english
+eventHandlers.includeLogfile,Include logfile,Include logfile,same_as_english
+eventHandlers.subjectLine,Subject line,Subject line,same_as_english
+eventHandlers.includeName,Include handler name,Include handler name,same_as_english
+eventHandlers.includeEventMessage,Include event message,Include event message,same_as_english
+eventHandlers.customTemplate,Custom email template,Custom template,no_cjk
+eventHandlers.script.nullResult,Returned null,Returned null,same_as_english
+eventHandlers.script.success,Success: {0},Success: {0},same_as_english
+eventHandlers.script.successUnchanged,"Success, no new value","Success, no new value",same_as_english
+eventHandlers.script.successNoEmail,"Success, email sending cancelled","Success, email sending cancelled",same_as_english
+eventHandlers.script.failure,Failure: {0},Failure: {0},same_as_english
+eventHandlers.invalidActiveScript,Invalid active script,Invalid active script,same_as_english
+eventHandlers.invalidActiveScriptError,Error in active script: {0},Error in active script: {0},same_as_english
+eventHandlers.invalidInactiveScript,Invalid inactive script,Invalid inactive script,same_as_english
+eventHandlers.invalidInactiveScriptError,Error in inactive script: {0},Error in inactive script: {0},same_as_english
+eventHandlers.validate.duplicateEventTypes,Duplicate event types are not valid,Duplicate event types are not valid,same_as_english
+events.id,Id,Id,same_as_english
+events.search.id,Id,Id,same_as_english
+events.search.previous,Previous,Previous,same_as_english
+events.search.past,Past,Past,same_as_english
+events.ackedByUser,- {0},- {0},same_as_english
+events.export.ackedByUser,{0},{0},same_as_english
+header.title,"Mango Automation, by Infinite Automation","Mango Automation, by Infinite Automation",same_as_english
+javascript.validate.rhinoException,{0} at line: {1},{0} at line: {1},same_as_english
+javascript.validate.rhinoExceptionCol,"{0} at line: {1}, column: {2}","{0} at line: {1}, column: {2}",same_as_english
+javascript.permissions,Script permissions,Script permissions,same_as_english
+login.browserOnPlatform,on,on,same_as_english
+login.newPassword,New password,New password,same_as_english
+login.validation.minLength,"The minimum length is {0} characters, you have entered {1} characters","The minimum length is {0} characters, you have entered {1} characters",same_as_english
+login.validation.noConfirmPassword,Please confirm your new password by entering it again,Please confirm your new password by entering it again,same_as_english
+login.validation.wrongConfirmPassword,The passwords do not match,The passwords do not match,same_as_english
+login.validation.noResetToken,Password reset token is required,Password reset token is required,same_as_english
+login.validation.resetTokenExpired,Password reset token has expired,Password reset token has expired,same_as_english
+login.validation.invalidResetToken,Invalid reset token,Invalid reset token,same_as_english
+Systems. We instead recommend the use of <a href,"""https://www.google.com/chrome/"" target=""_blank"">Google Chrome</a>, or \","""https://www.google.com/chrome/"" target=""_blank"">Google Chrome</a>, or \",same_as_english
+<a href,"""https://www.mozilla.org/firefox/"" target=""_blank"">Mozilla Firefox</a>.","""https://www.mozilla.org/firefox/"" target=""_blank"">Mozilla Firefox</a>.",same_as_english
+login.confirmPassword,Confirm new password,Confirm new password,same_as_english
+login.resetMessage,You are resetting the password for {0}. The password reset token expires at {1} ({2}).,You are resetting the password for {0}. The password reset token expires at {1} ({2}).,same_as_english
+login.errorResettingPassword,Error resetting password \u2014 {0},Error resetting password \u2014 {0},same_as_english
+login.hide,Hide,Hide,same_as_english
+login.confirmNewPassword,Confirm new password,Confirm new password,same_as_english
+login.tokenExpiryMessage,Token expires at {0} ({1}).,Token expires at {0} ({1}).,same_as_english
+pointDetails.recordCountError,Record count must be a number,Record count must be a number,same_as_english
+pointDetails.set,Set,Set,same_as_english
+pointEdit.buttons.note,"<span class=""smallTitle"">Note:</span> saving, disabling, or restarting a point causes all active events to be returned to normal.","<span class=""smallTitle"">Note:</span> saving, disabling, or restarting a point causes all active events to be returned to normal.",same_as_english
+pointEdit.template.templateName,Template name,Template name,same_as_english
+pointEdit.template.type,Template type,Template type,same_as_english
+pointEdit.template.propertyTemplate,Property Template,Property Template,same_as_english
+pointEdit.template.usePropertyTemplate,Use Property Template,Use Property Template,same_as_english
+pointEdit.template.selectPropertyTemplate,Select Template,Select Template,same_as_english
+pointEdit.template.updatePropertyTemplate,Update Template,Update Template,same_as_english
+pointEdit.template.editPropertyTemplate,Edit Template,Edit Template,same_as_english
+pointEdit.template.cancelEditPropertyTemplate,Cancel Edit,Cancel Edit,same_as_english
+pointEdit.template.saveNewPropertyTemplate,Save As New Template,Save As New Template,same_as_english
+pointEdit.template.templateSaved,Template Saved,Template Saved,same_as_english
+pointEdit.template.templateNotSaved,"Template not saved, invalid values found","Template not saved, invalid values found",same_as_english
+pointEdit.template.dataType,Data type,Data type,same_as_english
+pointEdit.template.defaultTemplate,Default template,Default template,same_as_english
+pointEdit.template.validate.templateNotFound,Assigned template with id: {0} does not exist,Assigned template with id: {0} does not exist,same_as_english
+pointEdit.chart.props,Chart renderer properties,Chart renderer properties,same_as_english
+pointEdit.chart.type,Type,Type,same_as_english
+pointEdit.chart.limit,Limit,Limit,same_as_english
+pointEdit.chart.timePeriod,Time period,Time period,same_as_english
+pointEdit.chart.includeSum,Include sum,Include sum,same_as_english
+pointEdit.chart.missingLimit,Chart renderer: limit must be entered,Chart renderer: limit must be entered,same_as_english
+pointEdit.chart.invalidLimit,Chart renderer: limit must be between 2 and 50,Chart renderer: limit must be between 2 and 50,same_as_english
+pointEdit.chart.missingPeriods,Chart renderer: number of periods must be entered,Chart renderer: number of periods must be entered,same_as_english
+pointEdit.chart.invalidPeriods,Chart renderer: number of periods must be greater than zero,Chart renderer: number of periods must be greater than zero,same_as_english
+pointEdit.detectors.state,State,State,same_as_english
+pointEdit.props.deviceName,Device name,Device name,same_as_english
+pointEdit.props.unit,Unit,Unit,same_as_english
+pointEdit.props.integralUnit,Integral unit,Integral unit,same_as_english
+pointEdit.props.renderedUnit,Display unit,Displayed unit,no_cjk
+pointEdit.props.useIntegralUnit,Custom integral unit,Convert unit for displaying integral,no_cjk
+pointEdit.props.useRenderedUnit,Custom display unit,Convert unit for display,no_cjk
+pointEdit.props.useUnitAsSuffix,Use unit symbol as suffix,Use unit symbol as suffix,same_as_english
+pointEdit.props.chartColour,Chart color,Chart color,same_as_english
+pointEdit.props.intervalLoggingSampleWindowSize,Sample window size,Sample window size,same_as_english
+pointEdit.props.overrideIntervalLoggingSamples,Override interval logging sample window,Override interval logging sample window,same_as_english
+pointEdit.props.permission.read,Read permission,Read permission,same_as_english
+pointEdit.props.permission.set,Set permission,Set permission,same_as_english
+pointEdit.props.preventSetExtremeValues,Prevent extreme sets,Prevent extreme sets,same_as_english
+pointEdit.props.setExtremeLowLimit,Low set limit,Low set limit,same_as_english
+pointEdit.props.setExtremeHighLimit,High set limit,High set limit,same_as_english
+pointEdit.props.simplifyType,Simplify type,Simplify type,same_as_english
+pointEdit.props.simplifyTarget,Simplify target,Simplify target,same_as_english
+pointEdit.props.simplifyTolerance,Simplify tolerance,Simplify tolerance,same_as_english
+pointEdit.purge.purgeNow,Purge now,Purge now,same_as_english
+pointEdit.purge.olderThan,Purge data older than,Purge data older than,same_as_english
+pointEdit.purge.all,Purge all data,Purge all data,same_as_english
+pointEdit.purge.allData,Purge all data for this data point,All data,no_cjk
+pointEdit.purge.warn,"Purging data, please wait...","Purging data, please wait...",same_as_english
+pointEdit.purge.specificTimeRange,Purge time range,Time range,no_cjk
+pointEdit.purge.confirmSpecific,Really purge range? ,Really purge range? ,same_as_english
+pointEdit.purge.invalidTimeRange,Invalid time range,Invalid time range,same_as_english
+pointEdit.text.text,Text,Text,same_as_english
+publisherEdit.point.name,Name,Name,same_as_english
+publisherEdit.point.status,Status,Status,same_as_english
+publisherEdit.point.type,Type,Type,same_as_english
+systemSettings.permissions.userEditSelf,Edit your own user settings,Edit your own user settings,same_as_english
+systemSettings.permissions.sendToMailingList,Send email to mailing list,Send email to mailing list,same_as_english
+systemSettings.historyCount,History count,History count,same_as_english
+systemSettings.plotBackgroundColour,Plot background,Plot background,same_as_english
+systemSettings.plotGridlinesColour,Plot gridline,Plot gridline,same_as_english
+systemSettings.validation.invalidColour,Invalid color,Invalid color,same_as_english
+systemSettings.validation.cannotWriteToBackupFileLocation,Unable to write to backup file location,Unable to write to backup file location,same_as_english
+systemSettings.validation.backupLocationNotExists,Backup location does not exist,Backup location does not exist,same_as_english
+systemSettings.validation.backupHourInvalid,Hour must be 0-23,Hour must be 0-23,same_as_english
+systemSettings.validation.backupMinuteInvalid,Minute must be 0-59,Minute must be 0-59,same_as_english
+systemSettings.validation.backupFileCountInvalid,History must be > 0,History must be > 0,same_as_english
+systemSettings.validation.cannotWriteToDatabaseBackupFileLocation,Unable to write to backup file location,Unable to write to backup file location,same_as_english
+systemSettings.validation.databaseBackupLocationNotExists,Backup location does not exist,Backup location does not exist,same_as_english
+systemSettings.validation.databaseBackupHourInvalid,Hour must be 0-23,Hour must be 0-23,same_as_english
+systemSettings.validation.databaseBackupMinuteInvalid,Minute must be 0-59,Minute must be 0-59,same_as_english
+systemSettings.validation.databaseBackupFileCountInvalid,History must be > 0,History must be > 0,same_as_english
+systemSettings.chartFont,JFree chart font,JFree chart font,same_as_english
+systemSettings.chartFont.default,Default font,Default font,same_as_english
+systemSettings.chartFont.openSans,"Open Sans, Lucida Sans","Open Sans, Lucida Sans",same_as_english
+systemSettings.threadPools,Thread pools,Thread pools,same_as_english
+systemSettings.threadPools.highPriorityCorePoolSize,High priority core pool size,High priority core pool size,same_as_english
+systemSettings.threadPools.highPriorityMaximumPoolSize,High priority maximum pool size,High priority maximum pool size,same_as_english
+systemSettings.threadPools.mediumPriorityCorePoolSize,Medium priority core pool size,Medium priority core pool size,same_as_english
+systemSettings.threadPools.lowPriorityCorePoolSize,Low priority core pool size,Low priority core pool size,same_as_english
+systemSettings.threadPools.settingsSaved,Thread pool settings saved,Thread pool settings saved,same_as_english
+systemSettings.threadPools.validate.maxPoolMustBeGreaterThanCorePool,Maximum thread pool size must be greater than or equal to core pool size,Maximum thread pool size must be greater than or equal to core pool size,same_as_english
+systemSettings.comm.virtual.serialPorts,Virtual serial ports,Virtual serial ports,same_as_english
+systemSettings.comm.virtual.serialPorts.types,Virtual serial port type,Virtual serial port type,same_as_english
+systemSettings.comm.virtual.serialPortSaved,Virtual serial port saved,Virtual serial port saved,same_as_english
+systemSettings.comm.virtual.serialPortRemoved,Virtual serial port removed,Virtual serial port removed,same_as_english
+systemSettings.comm.virtual.serialPorts.serialSocketBridges,Serial socket bridges,Serial socket bridges,same_as_english
+systemSettings.comm.virtual.serialPorts.types.serialClientSocketBridge,Serial client,Serial client,same_as_english
+systemSettings.comm.virtual.serialPorts.types.serialServerSocketBridge,Serial server,Serial server,same_as_english
+systemSettings.comm.virtual.serialClientSocketBridgeSettings,Serial client settings,Serial client settings,same_as_english
+systemSettings.comm.virtual.serialServerSocketBridgeSettings,Serial server settings,Serial server settings,same_as_english
+systemSettings.comm.virtual.serialClientSocketBridgeSettings.commPortId,Serial port id,Serial port id,same_as_english
+systemSettings.comm.virtual.serialClientSocketBridgeSettings.address,Host,Host,same_as_english
+systemSettings.comm.virtual.serialClientSocketBridgeSettings.port,Port,Port,same_as_english
+systemSettings.comm.virtual.serialClientSocketBridgeSettings.timeout,Timeout (ms),Timeout (ms),same_as_english
+systemSettings.comm.virtual.serialServerSocketBridgeSettings.bufferSize,Buffer Size,Buffer Size,same_as_english
+systemSettings.siteAnalytics,Site analytics (Legacy UI),Site analytics (Legacy UI),same_as_english
+systemSettings.siteAnalytics.headTag,Inserted before the closing 'head' tag,Inserted before the closing 'head' tag,same_as_english
+systemSettings.siteAnalytics.bodyTag,Inserted before the closing 'body' tag,Inserted before the closing 'body' tag,same_as_english
+systemSettings.siteAnalytics.saved,Site analytics saved,Site analytics saved,same_as_english
+systemSettings.upgradeChecksEnabled,Enable checking for upgrades,Enable checking for upgrades,same_as_english
+systemSettings.usageTrackingEnabled,Send usage information when checking for upgrades,Send usage information when checking for upgrades,same_as_english
+systemSettings.licenseAlreadyAgreed,Already agreed to license,Already agreed to license,same_as_english
+systemSettings.agreeAndContinue,Agree and continue,Agree and continue,same_as_english
+systemSettings.upgradeChecksHelp,Mango will periodically check for upgrades every 24hrs (Recommended),Mango will periodically check for upgrades every 24hrs (Recommended),same_as_english
+systemSettings.usageTrackingHelp,Allow uploading usage data to the Mango Store when checking for upgrades,Allow uploading usage data to the Mango Store when checking for upgrades,same_as_english
+systemSettings.upgradeState.alpha,Alpha,Alpha,same_as_english
+systemSettings.upgradeState.beta,Beta,Beta,same_as_english
+systemSettings.httpSessionTimeout,HTTP Session timeout,HTTP Session timeout,same_as_english
+systemSettings.passwordSettings,Password settings,Password settings,same_as_english
+systemSettings.enablePasswordExpiration,Enable password expiration,Enable password expiration,same_as_english
+systemSettings.passwordExpiration,Password expiration,Password expiration,same_as_english
+systemSettings.restartDelay,Restart delay (seconds),Restart delay (seconds),same_as_english
+systemInfo.databaseTypeDesc,Database type,Get the type of main database being used,no_cjk
+systemInfo.diskInfoListDesc,Disk size information,Get information about disks on the server,no_cjk
+systemInfo.eventCountsDesc,Event count,Get the count of events ,no_cjk
+systemInfo.filedataCountDesc,File data count,Get the count of file data items,no_cjk
+systemInfo.filedataSizeDesc,File data disk usage,Get the disk size of file data,no_cjk
+systemInfo.loadAverageDesc,Load average,Get the load average,no_cjk
+systemInfo.noSqlDatabaseSizeDesc,NoSQL disk usage,Get the disk size of the NoSQL database,no_cjk
+systemInfo.osInfoDesc,Operating System,Get information about the operating system,no_cjk
+systemInfo.sqlDatabaseBackupListDesc,List of available SQL backups,Get the list of available SQL backups,no_cjk
+systemInfo.databaseSizeDesc,SQL database size,Get the size of the SQL database,no_cjk
+systemInfo.timezoneDesc,Server timezone,Get the server's timezone description,no_cjk
+header.virtualSerialPorts,Virtual serial ports,Virtual serial ports,same_as_english
+emport.virtualserialport.prefix,Virtual Serial Port ''{0}'': {1},Virtual Serial Port ''{0}'': {1},same_as_english
+emport.virtualserialport.missingType,Virtual Serial Port with XID ''{0}'' does not already exist and does not have a ''type'' value. Valid types are {1},Virtual Serial Port with XID ''{0}'' does not already exist and does not have a ''type'' value. Valid types are {1},same_as_english
+virtualSerialPorts.validate.portMatchesOsPort,Cannot use a port identifier that matches your system identifier format.,Cannot use a port identifier that matches your system identifier format.,same_as_english
+virtualSerialPorts.validate.portNameUsed,Port name already used by another virtual configuration,Port name already used by another virtual configuration,same_as_english
+table.edit.unableToDelete,Unable to delete item,Unable to delete item,same_as_english
+table.edit.unableToDeleteDueToConstraints,Unable to delete item due to database constraints,Unable to delete item due to database constraints,same_as_english
+table.edit.alreadyExists,Item Already Exists,Item Already Exists,same_as_english
+table.edit.unableToSave,Unable to save item {0},Unable to save item {0},same_as_english
+users.email,Email address,Email,no_cjk
+users.sessionExpirationOverride,Override session expiration,Override session expiration,same_as_english
+users.sessionExpirationPeriod,Session expiration,Session expiration,same_as_english
+users.sessionExpirationPeriodUnit,Session expiration unit,Session expiration unit,same_as_english
+users.publicRegistration.systemSetting,Enable public user registration,Enable public user registration,same_as_english
+users.publicRegistration.disabled,Public user registration is disabled,Public user registration is disabled,same_as_english
+users.emailAddressInUse,Email address is already in use by ''{0}'',Email address is already in use by ''{0}'',same_as_english
+chartRenderer.flipbook,Flipbook,Flipbook,same_as_english
+textRenderer.multistate,Multistate,Multistate,same_as_english
+textRenderer.plain,Plain,Plain,same_as_english
+event.eventsFor,Events for {0},Events for {0},same_as_english
+event.system.maxAlarmChanged,Maximum alarm level changed,Maximum alarm level changed,same_as_english
+event.system.setPoint,Set point event handler failure,Set point event handler failure,same_as_english
+event.system.setPointFailureName,Set point handler {0},Set point handler {0},same_as_english
+event.audit.mailingList,Mailing list,Mailing list,same_as_english
+event.audit.changedProperty,"<br/>&nbsp;&nbsp;&nbsp;&nbsp;{0}: ""{1}"" to ""{2}""","<br/>&nbsp;&nbsp;&nbsp;&nbsp;{0}: ""{1}"" to ""{2}""",same_as_english
+event.audit.property,"<br/>&nbsp;&nbsp;&nbsp;&nbsp;{0}=""{1}""","<br/>&nbsp;&nbsp;&nbsp;&nbsp;{0}=""{1}""",same_as_english
+event.audit.added,"User ""{0}"" created {1} with id {2}.","User ""{0}"" created {1} with id {2}.",same_as_english
+event.audit.changed,"User ""{0}"" changed {1} with id {2}.","User ""{0}"" changed {1} with id {2}.",same_as_english
+event.audit.deleted,"User ""{0}"" deleted {1} with id {2}.","User ""{0}"" deleted {1} with id {2}.",same_as_english
+event.audit.toggled,"User ""{0}"" toggled {1} to enabled: {2}.","User ""{0}"" toggled {1} to enabled: {2}.",same_as_english
+event.audit.extended.added,"User ""{0}"" created {1} - {2} with xid {3}.","User ""{0}"" created {1} - {2} with xid {3}.",same_as_english
+event.audit.propertyList.0,,,empty
+event.audit.propertyList.1,{0},{0},same_as_english
+event.audit.propertyList.2,{0}{1},{0}{1},same_as_english
+event.audit.propertyList.3,{0}{1}{2},{0}{1}{2},same_as_english
+event.audit.propertyList.4,{0}{1}{2}{3},{0}{1}{2}{3},same_as_english
+event.audit.propertyList.5,{0}{1}{2}{3}{4},{0}{1}{2}{3}{4},same_as_english
+event.audit.propertyList.6,{0}{1}{2}{3}{4}{5},{0}{1}{2}{3}{4}{5},same_as_english
+event.audit.propertyList.7,{0}{1}{2}{3}{4}{5}{6},{0}{1}{2}{3}{4}{5}{6},same_as_english
+event.audit.propertyList.8,{0}{1}{2}{3}{4}{5}{6}{7},{0}{1}{2}{3}{4}{5}{6}{7},same_as_english
+event.audit.propertyList.9,{0}{1}{2}{3}{4}{5}{6}{7}{8},{0}{1}{2}{3}{4}{5}{6}{7}{8},same_as_english
+event.audit.propertyList.10,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9},same_as_english
+event.audit.propertyList.11,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10},same_as_english
+event.audit.propertyList.12,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11},same_as_english
+event.audit.propertyList.13,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12},same_as_english
+event.audit.propertyList.14,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13},same_as_english
+event.audit.propertyList.15,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14},same_as_english
+event.audit.propertyList.16,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15},same_as_english
+event.audit.propertyList.17,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16},same_as_english
+event.audit.propertyList.18,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17},same_as_english
+event.audit.propertyList.19,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18},same_as_english
+event.audit.propertyList.20,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19},same_as_english
+event.audit.propertyList.21,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20},same_as_english
+event.audit.propertyList.22,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21},same_as_english
+event.audit.propertyList.23,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22},same_as_english
+event.audit.propertyList.24,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23},same_as_english
+event.audit.propertyList.25,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24},same_as_english
+event.audit.propertyList.26,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25},same_as_english
+event.audit.propertyList.27,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25}{26},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25}{26},same_as_english
+event.audit.propertyList.28,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25}{26}{27},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25}{26}{27},same_as_english
+event.audit.propertyList.29,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25}{26}{27}{28},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25}{26}{27}{28},same_as_english
+event.audit.propertyList.30,{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25}{26}{27}{28}{29},{0}{1}{2}{3}{4}{5}{6}{7}{8}{9}{10}{11}{12}{13}{14}{15}{16}{17}{18}{19}{20}{21}{22}{23}{24}{25}{26}{27}{28}{29},same_as_english
+event.audit.recip.mailingList,mailing list ''{0}'',mailing list ''{0}'',same_as_english
+event.audit.recip.list.0,,,empty
+event.audit.recip.list.1,{0},{0},same_as_english
+event.audit.recip.list.2,"{0}, {1}","{0}, {1}",same_as_english
+event.audit.recip.list.3,"{0}, {1}, {2}","{0}, {1}, {2}",same_as_english
+event.audit.recip.list.4,"{0}, {1}, {2}, {3}","{0}, {1}, {2}, {3}",same_as_english
+event.audit.recip.list.5,"{0}, {1}, {2}, {3}, {4}","{0}, {1}, {2}, {3}, {4}",same_as_english
+event.audit.recip.list.6,"{0}, {1}, {2}, {3}, {4}, {5}","{0}, {1}, {2}, {3}, {4}, {5}",same_as_english
+event.audit.recip.list.7,"{0}, {1}, {2}, {3}, {4}, {5}, {6}","{0}, {1}, {2}, {3}, {4}, {5}, {6}",same_as_english
+event.audit.recip.list.8,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}",same_as_english
+event.audit.recip.list.9,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}",same_as_english
+event.audit.recip.list.10,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}",same_as_english
+event.audit.recip.list.11,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}",same_as_english
+event.audit.recip.list.12,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}",same_as_english
+event.audit.recip.list.13,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}",same_as_english
+event.audit.recip.list.14,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}",same_as_english
+event.audit.recip.list.15,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}",same_as_english
+event.audit.recip.list.16,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}",same_as_english
+event.audit.recip.list.17,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}",same_as_english
+event.audit.recip.list.18,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}",same_as_english
+event.audit.recip.list.19,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}",same_as_english
+event.audit.recip.list.20,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}",same_as_english
+event.audit.recip.list.21,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}",same_as_english
+event.audit.recip.list.22,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}",same_as_english
+event.audit.recip.list.23,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}",same_as_english
+event.audit.recip.list.24,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}",same_as_english
+event.audit.recip.list.25,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}",same_as_english
+event.audit.recip.list.26,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}",same_as_english
+event.audit.recip.list.27,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}, {26}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}, {26}",same_as_english
+event.audit.recip.list.28,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}, {26}, {27}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}, {26}, {27}",same_as_english
+event.audit.recip.list.29,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}, {26}, {27}, {28}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}, {26}, {27}, {28}",same_as_english
+event.audit.recip.list.30,"{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}, {26}, {27}, {28}, {29}","{0}, {1}, {2}, {3}, {4}, {5}, {6}, {7}, {8}, {9}, {10}, {11}, {12}, {13}, {14}, {15}, {16}, {17}, {18}, {19}, {20}, {21}, {22}, {23}, {24}, {25}, {26}, {27}, {28}, {29}",same_as_english
+event.pollAborted,"Data source with xid: {0} and name: {1} aborted a poll, check its settings.","Data source with xid: {0} and name: {1} aborted a poll, check its settings.",same_as_english
+event.exception2,{0}: {1},{0}: {1},same_as_english
+event.initializationError,Initialization error: {0},Initialization error: {0},same_as_english
+event.setPointFailed,Set point failed: {0},Set point failed: {0},same_as_english
+event.setPointFailed.alias,Set point ''{0}'' failed: {1},Set point ''{0}'' failed: {1},same_as_english
+event.relinquishFailed,Relinquish failed: {0},Relinquish failed: {0},same_as_english
+event.readPointFailed,Read point failed: {0},Read point failed: {0},same_as_english
+event.pollingError,Error during polling,Error during polling,same_as_english
+event.pollingError2,Error during polling: {0},Error during polling: {0},same_as_english
+event.email.failure,"Failed to send email titled ""{0}"" to ""{1}"". Message: ""{2}""","Failed to send email titled ""{0}"" to ""{1}"". Message: ""{2}""",same_as_english
+event.login,User {0} logged in from remote address {1},User {0} logged in from remote address {1},same_as_english
+event.failedLogin,Failed login attempt on user {0} from remote address {1},Failed login attempt on user {0} from remote address {1},same_as_english
+event.newUserRegistered,New user registered with username {0} and email {1},New user registered with username {0} and email {1},same_as_english
+event.alarmMaxIncreased,Maximum alarm level has increased from {0} to {1},Maximum alarm level has increased from {0} to {1},same_as_english
+event.alarmMaxDecreased,Maximum alarm level has decreased from {0} to {1},Maximum alarm level has decreased from {0} to {1},same_as_english
+event.detector.periodState,{0} has been {1} for more than {2},{0} has been {1} for more than {2},same_as_english
+event.detector.state,{0} is {1},{0} is {1},same_as_english
+event.detector.change,{0} has changed state {1} times within {2},{0} has changed state {1} times within {2},same_as_english
+event.detector.noChange,{0} has not changed for over {1},{0} has not changed for over {1},same_as_english
+event.detector.noUpdate,{0} has not been updated for over {1},{0} has not been updated for over {1},same_as_english
+event.detector.changeCount,"{0} has changed from ""{1}"" to ""{2}""","{0} has changed from ""{1}"" to ""{2}""",same_as_english
+event.detector.changeCountUser,"{0} was changed from ""{1}"" to ""{2}"" by user ""{3}""","{0} was changed from ""{1}"" to ""{2}"" by user ""{3}""",same_as_english
+event.detector.changeCountAnnotation,"{0} has changed from ""{1}"" to ""{2}"" with annotation ""{3}""","{0} has changed from ""{1}"" to ""{2}"" with annotation ""{3}""",same_as_english
+event.detector.posCusum,{0} CUSUM has exceeded {1},{0} CUSUM has exceeded {1},same_as_english
+event.detector.posCusumPeriod,{0} CUSUM has exceeded {1} for more than {2},{0} CUSUM has exceeded {1} for more than {2},same_as_english
+event.detector.negCusum,{0} CUSUM is below {1},{0} CUSUM is below {1},same_as_english
+event.detector.negCusumPeriod,{0} CUSUM has been below {1} for more than {2},{0} CUSUM has been below {1} for more than {2},same_as_english
+event.process.failure,"Failed to start process with command ""{0}"". Message: ""{1}""","Failed to start process with command ""{0}"". Message: ""{1}""",same_as_english
+event.viconics.messagingException,Messaging error: {0},Messaging error: {0},same_as_english
+event.viconics.networkOffline,Network is offline,Network is offline,same_as_english
+event.viconics.deviceOffline,Device is offline: {0},Device is offline: {0},same_as_english
+event.viconics.duplicateCommException,Duplicate comm address detected: {0},Duplicate comm address detected: {0},same_as_english
+event.detector.rangeOutside,{0} is outside of {1} and {2},{0} is outside of {1} and {2},same_as_english
+event.detector.rangeOutsidePeriod,{0} has been outside of {1} and {2} for more than {3},{0} has been outside of {1} and {2} for more than {3},same_as_english
+event.detector.smoothness,{0} smoothness is below {1},{0} smoothness is below {1},same_as_english
+event.detector.smoothnessPeriod,{0} smoothness has been below {1} for more than {2},{0} smoothness has been below {1} for more than {2},same_as_english
+event.detector.analogChangePeriod,{0} has changed {1} or more in {2},{0} has changed {1} or more in {2},same_as_english
+event.detector.analogIncreasePeriod,{0} has increased {1} or more in {2},{0} has increased {1} or more in {2},same_as_english
+event.detector.analogDecreasePeriod,{0} has decreased {1} or more in {2},{0} has decreased {1} or more in {2},same_as_english
+event.detector.analogChange,{0} has changed {1} or more,{0} has changed {1} or more,same_as_english
+event.detector.analogIncrease,{0} has increased {1} or more,{0} has increased {1} or more,same_as_english
+event.detector.analogDecrease,{0} has decreased {1} or more,{0} has decreased {1} or more,same_as_english
+event.detector.rocInstantaneous,{0} has a rate of change {1} ,{0} has a rate of change {1} ,same_as_english
+event.detector.rocInstantaneousDuration,{0} has a rate of change {1} for more than {2},{0} has a rate of change {1} for more than {2},same_as_english
+event.detector.rocAverage,{0} has an average rate of change {1} over the last {2},{0} has an average rate of change {1} over the last {2},same_as_english
+event.detector.rocAverageDuration,{0} has an average rate of change {1} over the last {2} for more than {3},{0} has an average rate of change {1} over the last {2} for more than {3},same_as_english
+event.detectorVo.changeCount,When state changes {0} times within {1},When state changes {0} times within {1},same_as_english
+event.detectorVo.noChange,When state does not change for {0},When state does not change for {0},same_as_english
+event.detectorVo.noUpdate,When state is not updated for {0},When state is not updated for {0},same_as_english
+event.detectorVo.posCusum,When CUSUM is higher than {0},When CUSUM is higher than {0},same_as_english
+event.detectorVo.posCusumPeriod,When CUSUM is higher than {0} for {1},When CUSUM is higher than {0} for {1},same_as_english
+event.detectorVo.negCusum,When CUSUM is lower than {0},When CUSUM is lower than {0},same_as_english
+event.detectorVo.negCusumPeriod,When CUSUM is lower than {0} for {1},When CUSUM is lower than {0} for {1},same_as_english
+event.detectorVo.range,When value is between {0} and {1},When value is between {0} and {1},same_as_english
+event.detectorVo.rangePeriod,When value is between {0} and {1} for {2},When value is between {0} and {1} for {2},same_as_english
+event.detectorVo.rangeOutside,When value is outside of {0} and {1},When value is outside of {0} and {1},same_as_english
+event.detectorVo.rangeOutsidePeriod,When value is outside of {0} and {1} for {2},When value is outside of {0} and {1} for {2},same_as_english
+event.detectorVo.smoothness,When smoothness is lower than {0},When smoothness is lower than {0},same_as_english
+event.detectorVo.smoothnessPeriod,When smoothness is lower than {0} for {1},When smoothness is lower than {0} for {1},same_as_english
+event.detectorVo.analogChangePeriod,When changed {0} or more in {1},When changed {1} or more in {2},no_cjk
+event.detectorVo.analogIncreasePeriod,When increased {0} or more in {1},When increased {1} or more in {2},no_cjk
+event.detectorVo.analogDecreasePeriod,When decreased {0} or more in {1},When decreased {1} or more in {2},no_cjk
+event.detectorVo.analogChange,When changed {0} or more,When changed {0} or more,same_as_english
+event.detectorVo.analogIncrease,When increased {0} or more,When increased {0} or more,same_as_english
+event.detectorVo.analogDecrease,When decreased {0} or more,When decreased {0} or more,same_as_english
+event.detectorVo.rocInstantaneous,When rate of change is {0} ,When rate of change is {0} ,same_as_english
+event.detectorVo.rocInstantaneousDuration,When rate of change is {0} for more than {1},When rate of change is {0} for more than {1},same_as_english
+event.detectorVo.rocAverage,When average rate of change is {0} over the last {1},When average rate of change is {0} over the last {1},same_as_english
+event.detectorVo.rocAverageDuration,When average rate of change is {0} over the last {1} for more than {2},When average rate of change is {0} over the last {1} for more than {2},same_as_english
+event.detectorVo.roc.greaterThan,greater than {0} {1},greater than {0} {1},same_as_english
+event.detectorVo.roc.greaterThanEqualTo,greater than or equal to {0} {1},greater than or equal to {0} {1},same_as_english
+event.detectorVo.roc.lessThan,less than {0} {1},less than {0} {1},same_as_english
+event.detectorVo.roc.lessThanEqualTo,less than or equal to {0} {1},less than or equal to {0} {1},same_as_english
+event.setPoint.targetPointMissing,target point is missing or disabled,target point is missing or disabled,same_as_english
+event.setPoint.targetNotSettable,target point is not settable,target point is not settable,same_as_english
+event.setPoint.activePointMissing,active source point is missing or disabled,active source point is missing or disabled,same_as_english
+event.setPoint.activePointValue,active source point has no value,active source point has no value,same_as_english
+event.setPoint.activePointDataType,active source point data type is different than the target point,active source point data type is different than the target point,same_as_english
+event.setPoint.inactivePointMissing,inactive source point is missing or disabled,inactive source point is missing or disabled,same_as_english
+event.setPoint.inactivePointValue,inactive source point has no value,inactive source point has no value,same_as_english
+event.setPoint.inactivePointDataType,inactive source point data type is different than the target point,inactive source point data type is different than the target point,same_as_english
+event.setPoint.recursionFailure,The set point was not performed due to a recursion overflow. There may be an infinite recursion loop in your configuration.,The set point was not performed due to a recursion overflow. There may be an infinite recursion loop in your configuration.,same_as_english
+event.schedule.onceAt,At {0},At {0},same_as_english
+event.schedule.onceUntil,From {0} until {1},From {0} until {1},same_as_english
+event.schedule.hourlyAt,Every hour at {0},Every hour at {0},same_as_english
+event.schedule.hoursUntil,Every hour at {0} until {1},Every hour at {0} until {1},same_as_english
+event.schedule.dailyAt,Every day at {0},Every day at {0},same_as_english
+event.schedule.dailyUntil,Every day at {0} until {1},Every day at {0} until {1},same_as_english
+event.schedule.weeklyAt,Every week on {0} at {1},Every week on {0} at {1},same_as_english
+event.schedule.weeklyUntil,Every week on {0} at {1} until {2} at {3},Every week on {0} at {1} until {2} at {3},same_as_english
+event.schedule.monthlyAt,Every month on the {0} at {1},Every month on the {0} at {1},same_as_english
+event.schedule.monthlyUntil,Every month on the {0} at {1} until the {2} at {3},Every month on the {0} at {1} until the {2} at {3},same_as_english
+event.schedule.yearlyAt,Every year on the {0} of {1} at {2},Every year on the {0} of {1} at {2},same_as_english
+event.schedule.yearlyUntil,Every year on the {0} of {1} at {2} until the {3} of {4} at {5},Every year on the {0} of {1} at {2} until the {3} of {4} at {5},same_as_english
+event.schedule.cronAt,At cron {0},At cron {0},same_as_english
+event.schedule.cronUntil,At cron {0} until {1},At cron {0} until {1},same_as_english
+event.publish.invalidResponse,Invalid response code from host: {0},Invalid response code from host: {0},same_as_english
+event.publish.queueSize,The publisher queue has exceeded {0} entries,The publisher queue has exceeded {0} entries,same_as_english
+event.pb.resultWarnings,Result warnings,Result warnings,same_as_english
+event.pb.queueSize,Queue size warning,Queue size warning,same_as_english
+event.ds,''{0}'': {1},''{0}'': {1},same_as_english
+event.ds.initialization,Initialization exception,Initialization exception,same_as_english
+event.ds.message,Message exception,Message exception,same_as_english
+event.ds.device,Device exception,Device exception,same_as_english
+event.ds.network,Network exception,Network exception,same_as_english
+event.ds.duplicateComm,Duplicate comm address detected,Duplicate comm address detected,same_as_english
+event.ds.dataSource,Data source exception,Data source exception,same_as_english
+event.ds.dataRetrieval,Data retrieval failure,Data retrieval failure,same_as_english
+event.ds.fileSave,File save exception,File save exception,same_as_english
+event.ds.scriptError,Script error,Script error,same_as_english
+event.ds.resultType,Result type error,Result type error,same_as_english
+event.ds.dataType,Data type error,Data type error,same_as_english
+event.ds.emailInbox,Error accessing inbox,Error accessing inbox,same_as_english
+event.ds.emailRead,Error reading message,Error reading message,same_as_english
+event.ds.emailParse,Error parsing email data,Error parsing email data,same_as_english
+event.ds.pdu,PDU exception,PDU exception,same_as_english
+event.ds.heartbeat,Sensor heartbeat,Sensor heartbeat,same_as_english
+event.ds.unknownSensor,Unknown sensor,Unknown sensor,same_as_english
+event.ds.statement,Statement exception,Statement exception,same_as_english
+event.ds.logError,Log error,Log error,same_as_english
+event.ds.pollAborted,Poll aborted,Poll aborted,same_as_english
+event.report,Alarm Report,Alarm Report,same_as_english
+event.legacyAlarmsPage,Legacy Alarms Page,Legacy Alarms Page,same_as_english
+event.backup.failure,Backup Failed for File: {0} because {1},Backup Failed for File: {0} because {1},same_as_english
+event.rtn.unknown,Unknown inactive cause,Unknown inactive cause,same_as_english
+event.missing,"Missing event type {0}, the module that created it is not installed","Missing event type {0}, the module that created it is not installed",same_as_english
+validate.cannotBeNegative,Cannot be negative,Cannot be negative,same_as_english
+validate.greaterThanRawLow,Must be greater than Scaling raw low value,Must be greater than Scaling raw low value,same_as_english
+validate.greaterThanEngLow,Must be greater than Scaling engineering unit low value,Must be greater than Scaling engineering unit low value,same_as_english
+validate.greaterThanDiscardLow,Must be greater than discard low limit,Must be greater than discard low limit,same_as_english
+validate.greaterThanSetExtremeLow,Must be greater than set extreme low limit,Must be greater than set extreme low limit,same_as_english
+validate.between,Must be between {0} and {1},Must be between {0} and {1},same_as_english
+validate.betweenInc,Must be between {0} and {1} inclusive,Must be between {0} and {1} inclusive,same_as_english
+validate.allVarNames,All variable names must be defined,All variable names must be defined,same_as_english
+validate.invalidVarName,Invalid variable name: {0},Invalid variable name: {0},same_as_english
+validate.duplicateVarName,Duplicate variable name: {0},Duplicate variable name: {0},same_as_english
+validate.invalidType,Invalid class type mismatch,Invalid class type mismatch,same_as_english
+validate.invalidValueWithAcceptable,"Invalid value, acceptable values: {0}","Invalid value, acceptable values: {0}",same_as_english
+validate.greaterThan1s,Cannot be less than two seconds,Cannot be less than two seconds,same_as_english
+validate.captureGroup,A capture group must be defined,A capture group must be defined,same_as_english
+validate.parseError,Parse error: {0},Parse error: {0},same_as_english
+validate.invalidCharset,Invalid character set name,Invalid character set name,same_as_english
+validate.fieldName,One of Query field name or update statement must be provided,One of Query field name or update statement must be provided,same_as_english
+validate.invalidAddress,Invalid sensor address: {0},Invalid sensor address: {0},same_as_english
+validate.notLessThan30s,Cannot be less than 30 seconds,Cannot be less than 30 seconds,same_as_english
+validate.missingDeviceId,Device ID cannot be empty,Device ID cannot be empty,same_as_english
+validate.maxGreaterThanMin,Maximum must be greater than the minimum,Maximum must be greater than the minimum,same_as_english
+validate.minLessThanMax,Minimum must be less than the maximum,Minimum must be less than the maximum,same_as_english
+validate.atLeast1,At least one value must be defined,At least one value must be defined,same_as_english
+validate.parameterRequired,Parameter name is required,Parameter name is required,same_as_english
+validate.xidUsed,This XID is already in use,This XID is already in use,same_as_english
+validate.text.incompatible,Text renderer is incompatible with data type,Text renderer is incompatible with data type,same_as_english
+validate.chart.incompatible,Chart renderer is incompatible with data type,Chart renderer is incompatible with data type,same_as_english
+validate.rollup.incompatible,Rollup ''{0}'' is incompatible with data type,Rollup ''{0}'' is incompatible with data type,same_as_english
+validate.intervalType.incompatible,Interval type {0} is incompatible with data type {1},Interval type {0} is incompatible with data type {1},same_as_english
+validate.ped.xidUsed,The same XID ''{0}'' is being used for multiple event detectors. Not saved,The same XID ''{0}'' is being used for multiple event detectors. Not saved,same_as_english
+validate.ped.xidMissing,All event detectors must define an XID. Not saved,All event detectors must define an XID. Not saved,same_as_english
+validate.invalidCron,Error in cron expression: {0},Error in cron expression: {0},same_as_english
+validate.publisher.cacheDiscardSize,Must be greater than the cache warning size,Must be greater than the cache warning size,same_as_english
+validate.publisher.duplicatePoint,"Point list contains a duplicate: name=''{0}'', xid=''{1}''","Point list contains a duplicate: name=''{0}'', xid=''{1}''",same_as_english
+validate.publisher.incompatiblePublisherType,Incompatible publisher type,Incompatible publisher type,same_as_english
+validate.unitNotCompatible,Unit is not compatible,Unit is not compatible,same_as_english
+validate.invalidReference,Invalid XID Reference,Invalid XID Reference,same_as_english
+validate.incompatibleDataSourceType,Data Source Type Incompatible,Data Source Type Incompatible,same_as_english
+validate.invalidPermissionWithSpace,Permission cannot contain space: {0},Permission cannot contain space: {0},same_as_english
+validate.invalidPermission,Cannot add permission that you do not already have: {0},Cannot add permission that you do not already have: {0},same_as_english
+validate.invalidPermissionModification,Cannot add or remove a permissions you do not have. You have: {0},Cannot add or remove a permissions you do not have. You have: {0},same_as_english
+validate.mustHaveEditPermission,Must retain edit permission,Must retain edit permission,same_as_english
+validate.mustRetainPermission,Must retain permission,Must retain permission,same_as_english
+validate.userRequired,User required to save items with permissions,User required to save items with permissions,same_as_english
+validate.invalidPermissionEmpty,Permission cannot be empty,Permission cannot be empty,same_as_english
+validate.greaterThan,Must be greater than {0},Must be greater than {0},same_as_english
+validate.greaterThanOrEqualTo,Must be greater than or equal to {0},Must be greater than or equal to {0},same_as_english
+validate.lessThan,Must be less than {0},Must be less than {0},same_as_english
+validate.lessThanOrEqualTo,Must be less than or equal to {0},Must be less than or equal to {0},same_as_english
+validate.cannotContainEmptyString,Cannot contain empty string,Cannot contain empty string,same_as_english
+validate.validationFailed,Validation failed,Validation failed,same_as_english
+validate.invalidRegex,Regex failed to compile: {0},Regex failed to compile: {0},same_as_english
+validate.tagCantBeNull,"Tag keys and values must be strings, can't be null.","Tag keys and values must be strings, can't be null.",same_as_english
+validate.invalidTagKey,Tag keys cannot be 'device' or 'name',Tag keys cannot be 'device' or 'name',same_as_english
+validate.readOnly,"Read only value, cannot be changed","Read only value, cannot be changed",same_as_english
+validate.cannotSimplifyType,Simplify not valid for type {0},Simplify not valid for type {0},same_as_english
+validate.fileDoesNotExist,File does not exist,File does not exist,same_as_english
+validate.directoryDoesNotExist,Directory does not exist,Directory does not exist,same_as_english
+validate.pathIsDirectory,"Path is a directory, not a file","Path is a directory, not a file",same_as_english
+validate.fileNotReadable,File not readable,File not readable,same_as_english
+validate.fileNotWritable,File not writable,File not writable,same_as_english
+validate.invalidValueForField,Invalid value for field ''{0}'',Invalid value for field ''{0}'',same_as_english
+validate.cronCannotBeQuantized,Cron triggered data sources cannot be quantized,Cron triggered data sources cannot be quantized,same_as_english
+validate.invalidCombination,Invalid combination when ''{0}'' is set to ''{1}'',Invalid combination when ''{0}'' is set to ''{1}'',same_as_english
+validate.textRenderer.unitNotSupported,Text renderer does not support using units,Text renderer does not support using units,same_as_english
+validate.minLength,"The minimum length is {0} characters, you have entered {1} characters","The minimum length is {0} characters, you have entered {1} characters",same_as_english
+validate.maxLength,"The maximum length is {0} characters, you have entered {1} characters","The maximum length is {0} characters, you have entered {1} characters",same_as_english
+validate.minNumber,The minimum value is {0},The minimum value is {0},same_as_english
+validate.maxNumber,The maximum value is {0},The maximum value is {0},same_as_english
+validate.wholeNumber,Must be a whole number (integer),Must be a whole number (integer),same_as_english
+validate.mustBeNumber,Must be a number,Must be a number,same_as_english
+validate.passwordsDoNotMatch,The passwords do not match,The passwords do not match,same_as_english
+validate.invalidLocale,Invalid locale,Invalid locale,same_as_english
+validate.invalidTimezone,Invalid timezone,Invalid timezone,same_as_english
+validate.invalidPermissions,Invalid permissions string,Invalid permissions string,same_as_english
+validate.invalidRoles,Invalid roles string,Invalid roles string,same_as_english
+validate.invalidEmail,Invalid email,Invalid email,same_as_english
+validate.statePattern,Invalid state name,Invalid state name,same_as_english
+validate.mustBeAbsolutePath,Must be an absolute path (starts with a single slash),Must be an absolute path (starts with a single slash),same_as_english
+validate.invalidUrl,Invalid URL,Invalid URL,same_as_english
+validate.invalidPhone,Invalid phone,Invalid phone,same_as_english
+validate.password.insufficientLowercase,Password must contain {0} or more lowercase characters,Password must contain {0} or more lowercase characters,same_as_english
+validate.password.insufficientUppercase,Password must contain {0} or more uppercase characters,Password must contain {0} or more uppercase characters,same_as_english
+validate.password.insufficientDigit,Password must contain {0} or more digit characters,Password must contain {0} or more digit characters,same_as_english
+validate.password.insufficientSpecial,Password must contain {0} or more special characters,Password must contain {0} or more special characters,same_as_english
+validate.password.tooLong,Password must be no more than {0} characters in length,Password must be no more than {0} characters in length,same_as_english
+validate.password.tooShort,Password must be {0} or more characters in length,Password must be {0} or more characters in length,same_as_english
+emport.error.chart.missing,Chart renderer must have a ''{0}''. Valid values are {1},Chart renderer must have a ''{0}''. Valid values are {1},same_as_english
+emport.error.chart.invalid,Chart renderer has an invalid ''{0}'' value of ''{1}''. Valid values are {2},Chart renderer has an invalid ''{0}'' value of ''{1}''. Valid values are {2},same_as_english
+emport.error.text.missing,Text renderer must have a ''{0}''. Valid values are {1},Text renderer must have a ''{0}''. Valid values are {1},same_as_english
+emport.error.text.invalid,Text renderer has an invalid ''{0}'' value of ''{1}''. Valid values are {2},Text renderer has an invalid ''{0}'' value of ''{1}''. Valid values are {2},same_as_english
+emport.error.missingObject,Missing ''{0}'' object,Missing ''{0}'' object,same_as_english
+emport.error.missingValue,Missing ''{0}'' value.,Missing ''{0}'' value.,same_as_english
+emport.error.wrongDataType,Incorrect data type for value of ''{0}'' expecting type of {1},Incorrect data type for value of ''{0}'' expecting type of {1},same_as_english
+emport.error.missing,Missing ''{0}'' value. Valid values are {1},Missing ''{0}'' value. Valid values are {1},same_as_english
+emport.error.invalid,Invalid ''{0}'' value of ''{1}''. Valid values are {2},Invalid ''{0}'' value of ''{1}''. Valid values are {2},same_as_english
+emport.error.pointType.missing,Point type must have a ''{0}''. Valid values are {1},Point type must have a ''{0}''. Valid values are {1},same_as_english
+emport.error.pointType.invalid,Point type has an invalid ''{0}'' value of ''{1}''. Valid values are {2},Point type has an invalid ''{0}'' value of ''{1}''. Valid values are {2},same_as_english
+emport.error.permission.missing,Missing ''{0}'' in point permission,Missing ''{0}'' in point permission,same_as_english
+emport.error.missingSource,Data source with XID ''{0}'' not found,Data source with XID ''{0}'' not found,same_as_english
+emport.error.ped.missing,Point event detector must have a ''{0}''. Valid values are {1},Point event detector must have a ''{0}''. Valid values are {1},same_as_english
+emport.error.ped.missingAttr,Point event detector must have a ''{0}''.,Point event detector must have a ''{0}''.,same_as_english
+emport.error.ped.invalid,Point event detector has an invalid ''{0}'' value of ''{1}''. Valid values are {2},Point event detector has an invalid ''{0}'' value of ''{1}''. Valid values are {2},same_as_english
+emport.error.eventCode,Invalid event code ''{0}''. Valid codes are {1},Invalid event code ''{0}''. Valid codes are {1},same_as_english
+emport.error.alarmLevel,Invalid alarm level ''{0}'' for event ''{1}''. Valid values are {2},Invalid alarm level ''{0}'' for event ''{1}''. Valid values are {2},same_as_english
+emport.error.missingUser,User with username ''{0}'' not found,User with username ''{0}'' not found,same_as_english
+emport.error.eventHandler.invalid,Event handler has an invalid ''{0}'' value of ''{1}''. Valid values are {2},Event handler has an invalid ''{0}'' value of ''{1}''. Valid values are {2},same_as_english
+emport.error.recipient.missing,Recipient must have a ''{0}''. Valid values are {1},Recipient must have a ''{0}''. Valid values are {1},same_as_english
+emport.error.recipient.invalid.reference,Recipient has an invalid ''{0}'' value of ''{1}'',Recipient has an invalid ''{0}'' value of ''{1}'',same_as_english
+emport.error.recipient.missing.reference,Recipient must have a ''{0}'',Recipient must have a ''{0}'',same_as_english
+emport.error.eventType.null,Event type is missing,Event type is missing,same_as_english
+emport.error.eventType.missing,Event type must have a ''{0}''. Valid values are {1},Event type must have a ''{0}''. Valid values are {1},same_as_english
+emport.error.eventType.invalid,Event type has an invalid ''{0}'' value of ''{1}''. Valid values are {2},Event type has an invalid ''{0}'' value of ''{1}''. Valid values are {2},same_as_english
+emport.error.eventType.missing.reference,Event type must have a ''{0}'',Event type must have a ''{0}'',same_as_english
+emport.error.eventType.invalid.reference,Event type has an invalid ''{0}'' value of ''{1}'',Event type has an invalid ''{0}'' value of ''{1}'',same_as_english
+emport.error.publishedPoint.missing,Published point must have a ''{0}''.,Published point must have a ''{0}''.,same_as_english
+emport.error.parseError,Error parsing ''{0}'',Error parsing ''{0}'',same_as_english
+emport.error.deleteNew,Unable to delete non-existant entry: {0},Unable to delete non-existant entry: {0},same_as_english
+emport.error.unableToDeleteDueToConstraints,"Unable to delete entry: {0}, due to database constraints","Unable to delete entry: {0}, due to database constraints",same_as_english
+emport.error.unableToDelete,Unable to delete entry: {0},Unable to delete entry: {0},same_as_english
+emport.error.xidRequired,XID not provided but is required,XID not provided but is required,same_as_english
+emport.error.dataValue.null,Data value is missing,Data value is missing,same_as_english
+emport.error.virtual.comm.missing,Virtual comm port configuration is missing ''{0}''. Valid values are {1},Virtual comm port configuration is missing ''{0}''. Valid values are {1},same_as_english
+emport.error.virtual.comm.invalid,Virtual comm port configuration has an invalid ''{0}'' value of ''{1}'' . Valid valies are {2},Virtual comm port configuration has an invalid ''{0}'' value of ''{1}'' . Valid valies are {2},same_as_english
+emport.error.context.missing,Missing ''{0}'' in context point,Missing ''{0}'' in context point,same_as_english
+internal.monitor.BATCH_INSTANCES,Point value write threads,Point value write threads,same_as_english
+internal.monitor.MONITOR_HIGH_ACTIVE,High priority work items currently running,High priority work items currently running,same_as_english
+internal.monitor.MONITOR_HIGH_SCHEDULED,Currently scheduled high priority tasks,Currently scheduled high priority tasks,same_as_english
+internal.monitor.MONITOR_HIGH_WAITING,High priority tasks queued,High priority tasks queued,same_as_english
+internal.monitor.MONITOR_MEDIUM_ACTIVE,Medium priority tasks currently running,Medium priority tasks currently running,same_as_english
+internal.monitor.MONITOR_MEDIUM_WAITING,Medium priority tasks queued,Medium priority tasks queued,same_as_english
+internal.monitor.MONITOR_LOW_ACTIVE,Low priority tasks currently running,Low priority tasks currently running,same_as_english
+internal.monitor.MONITOR_LOW_WAITING,Low priority tasks queued,Low priority tasks queued,same_as_english
+internal.monitor.MONITOR_STACK_HEIGHT,Maximum thread stack height,Maximum thread stack height,same_as_english
+internal.monitor.MONITOR_THREAD_COUNT,Active thread count,Active thread count,same_as_english
+internal.monitor.DB_ACTIVE_CONNECTIONS,Active database connections,Active database connections,same_as_english
+internal.monitor.DB_IDLE_CONNECTIONS,Idle database connections,Idle database connections,same_as_english
+internal.monitor.BATCH_WRITE_SPEED_MONITOR,Writes per second during database batches,Writes per second during database batches,same_as_english
+internal.monitor.USER_SESSION_COUNT,Active user sessions,Active user sessions,same_as_english
+internal.monitor.pollingDataSource.SUCCESS,{0} previous sequential successful polls,{0} previous sequential successful polls,same_as_english
+internal.monitor.pollingDataSource.DURATION,{0} last poll duration,{0} last poll duration,same_as_english
+internal.monitor.pollingDataSource.PERCENTAGE,{0} poll success percentage,{0} poll success percentage,same_as_english
+internal.monitor.JSON_DATA_COUNT,JSON data entries,JSON data entries,same_as_english
+internal.monitor.SERVER_THREADS,HTTP server threads,HTTP server threads,same_as_english
+internal.monitor.SERVER_IDLE_THREADS,HTTP server idle threads,HTTP server idle threads,same_as_english
+internal.monitor.SERVER_QUEUE_SIZE,HTTP server queue size,HTTP server queue size,same_as_english
+internal.monitor.MA_HOME_SIZE,MA_HOME usage (bytes),MA_HOME usage (bytes),same_as_english
+internal.monitor.fileStoreSize,{0} file store usage (bytes),{0} file store usage (bytes),same_as_english
+internal.monitor.MA_HOME_PARTITION_TOTAL_SPACE,Mango partition total space (bytes),Mango partition total space (bytes),same_as_english
+internal.monitor.MA_HOME_PARTITION_USABLE_SPACE,Mango partition usable space (bytes),Mango partition usable space (bytes),same_as_english
+internal.monitor.NOSQL_PARTITION_TOTAL_SPACE,NoSQL partition total space (bytes),NoSQL partition total space (bytes),same_as_english
+internal.monitor.NOSQL_PARTITION_USABLE_SPACE,NoSQL partition usable space (bytes),NoSQL partition usable space (bytes),same_as_english
+internal.monitor.SQL_PARTITION_TOTAL_SPACE,SQL database partition total space (bytes),SQL database partition total space (bytes),same_as_english
+internal.monitor.SQL_PARTITION_USABLE_SPACE,SQL database partition usable space (bytes),SQL database partition usable space (bytes),same_as_english
+internal.monitor.FILESTORE_PARTITION_TOTAL_SPACE,Filestore partition total space (bytes),Filestore partition total space (bytes),same_as_english
+internal.monitor.FILESTORE_PARTITION_USABLE_SPACE,Filestore partition usable space (bytes),Filestore partition usable space (bytes),same_as_english
+varNames.missing,Missing ''{0}'' in context point,Missing ''{0}'' in context point,same_as_english
+permissions.accessDeniedInvalidPermission,Permission ''{0}'' not defined in system,Permission ''{0}'' not defined in system,same_as_english
+filter.byDataSourceXid,Data source xid,Data source xid,same_as_english
+filestore.core.description,Default filestore,Default filestore,same_as_english
+filestore.core.permission.read,Core filestore read permission,Core filestore read permission,same_as_english
+filestore.core.permission.write,Core filestore write permission,Core filestore write permission,same_as_english
+filestore.public.description,Public filestore,Public filestore,same_as_english
+filestore.public.permission.write,Public filestore write permission,Public filestore write permission,same_as_english
+filestore.docs.description,Docs filestore,Docs filestore,same_as_english
+filestore.docs.permission.read,Docs filestore read permission,Docs filestore read permission,same_as_english
+filestore.docs.permission.write,Docs filestore write permission,Docs filestore write permission,same_as_english
+filestore.noSuchFileStore,File store {0} is not defined,File store {0} is not defined,same_as_english
+filestore.user.description,User filestore {0},User filestore {0},same_as_english
+filestore.user.permission.create,User filestore create permission,User filestore create permission,same_as_english
+filestore.user.createPermissionDenied,User {0} does not have create permission for filestores,User {0} does not have create permission for filestores,same_as_english
+scripting.permission,Script permission,Script permission,same_as_english
+scripting.permission.dataSource,Script data source permission,Script data source permission,same_as_english
+license.checkFailure,"Failed license check, shutdown in: {0}","Failed license check, shutdown in: {0}",same_as_english
+startup.state.epollInitialize,Initializing epoll notification system,Initializing epoll notification system,same_as_english
+shutdown.state.preTerminate,Pre Terminate,Pre Terminate,same_as_english
+runtimeManager.initialize.rtm,Initializing {0} runtime,Initializing {0} runtime,same_as_english
+runtimeManager.initialize.dataSource,Data source {0} took {1}ms to start,Data source {0} took {1}ms to start,same_as_english
+runtimeManager.initialize.publisher,Publisher {0} took {1}ms to start,Publisher {0} took {1}ms to start,same_as_english
+dateAndTime.millisecond.per,Per millisecond,Per millisecond,same_as_english
+dateAndTime.second.per,Per second,Per second,same_as_english
+dateAndTime.minute.per,Per minute,Per minute,same_as_english
+dateAndTime.hour.per,Per hour,Per hour,same_as_english
+dateAndTime.day.per,Per day,Per day,same_as_english
+dateAndTime.week.per,Per week,Per week,same_as_english
+dateAndTime.dayOfMonth,Day of month,Day of month,same_as_english
+dateAndTime.month.per,Per month,Per month,same_as_english
+dateAndTime.dayOfWeek,Day of week,Day of week,same_as_english
+dateAndTime.year.per,Per year,Per year,same_as_english
+jsonData.permission.create,Permission to create a JSON data entry,Permission to create a JSON data entry,same_as_english
+jsonData.createPermissionDenied,User {0} does not have permission to create a JSON data entry,User {0} does not have permission to create a JSON data entry,same_as_english
+rest.exception.modelNotFound,Unable to find model with Type Key: {0},Unable to find model with Type Key: {0},same_as_english
+rest.exception.noSupportingModel,No model found to support class: {0},No model found to support class: {0},same_as_english
+rest.exception.alreadyExists,Item with xid: {0} already exists,Item with xid: {0} already exists,same_as_english
+rest.exception.sessionExpired,Session expired,Session expired,same_as_english
+rest.exception.rateLimited,Rate limited,Rate limited,same_as_english
+rest.exception.authenticationIpRateLimited,Authentication attempts by IP address {0} are rate limited,Authentication attempts by IP address {0} are rate limited,same_as_english
+rest.exception.authenticationUsernameRateLimited,Authentication attempts against username {0} are rate limited,Authentication attempts against username {0} are rate limited,same_as_english
+rest.exception.genericAuthenticationFailed,Authentication failed: {0},Authentication failed: {0},same_as_english
+rest.exception.accountDisabled,Account disabled,Account disabled,same_as_english
+rest.exception.credentialsExpired,Credentials expired,Credentials expired,same_as_english
+rest.exception.badCredentials,Bad credentials,Bad credentials,same_as_english
+rest.exception.samePassword,New password cannot be the same as the existing password,New password cannot be the same as the existing password,same_as_english
+rest.exception.complexityRequirementsFailed,Password does not meet the complexity requirements,Password does not meet the complexity requirements,same_as_english
+rest.httpStatus.100,Continue,Continue,same_as_english
+rest.httpStatus.101,Switching Protocols,Switching Protocols,same_as_english
+rest.httpStatus.200,OK,OK,same_as_english
+rest.httpStatus.201,Created,Created,same_as_english
+rest.httpStatus.202,Accepted,Accepted,same_as_english
+rest.httpStatus.203,Non-Authoritative Information,Non-Authoritative Information,same_as_english
+rest.httpStatus.204,No Content,No Content,same_as_english
+rest.httpStatus.205,Reset Content,Reset Content,same_as_english
+rest.httpStatus.206,Partial Content,Partial Content,same_as_english
+rest.httpStatus.300,Multiple Choices,Multiple Choices,same_as_english
+rest.httpStatus.301,Moved Permanently,Moved Permanently,same_as_english
+rest.httpStatus.302,Found,Found,same_as_english
+rest.httpStatus.303,See Other,See Other,same_as_english
+rest.httpStatus.304,Not Modified,Not Modified,same_as_english
+rest.httpStatus.305,Use Proxy,Use Proxy,same_as_english
+rest.httpStatus.307,Temporary Redirect,Temporary Redirect,same_as_english
+rest.httpStatus.400,Bad Request,Bad Request,same_as_english
+rest.httpStatus.401,Unauthorized,Unauthorized,same_as_english
+rest.httpStatus.402,Payment Required,Payment Required,same_as_english
+rest.httpStatus.403,Access denied,Access denied,same_as_english
+rest.httpStatus.404,Not Found,Not Found,same_as_english
+rest.httpStatus.405,Method Not Allowed,Method Not Allowed,same_as_english
+rest.httpStatus.406,Not Acceptable,Not Acceptable,same_as_english
+rest.httpStatus.407,Proxy Authentication Required,Proxy Authentication Required,same_as_english
+rest.httpStatus.408,Request Time-out,Request Time-out,same_as_english
+rest.httpStatus.409,Conflict,Conflict,same_as_english
+rest.httpStatus.410,Gone,Gone,same_as_english
+rest.httpStatus.411,Length Required,Length Required,same_as_english
+rest.httpStatus.412,Precondition Failed,Precondition Failed,same_as_english
+rest.httpStatus.413,Request Entity Too Large,Request Entity Too Large,same_as_english
+rest.httpStatus.414,Request-URI Too Large,Request-URI Too Large,same_as_english
+rest.httpStatus.415,Unsupported Media Type,Unsupported Media Type,same_as_english
+rest.httpStatus.416,Requested range not satisfiable,Requested range not satisfiable,same_as_english
+rest.httpStatus.417,Expectation Failed,Expectation Failed,same_as_english
+rest.httpStatus.422,Unprocessable Entity,Unprocessable Entity,same_as_english
+rest.httpStatus.500,Internal Server Error,Internal Server Error,same_as_english
+rest.httpStatus.501,Not Implemented,Not Implemented,same_as_english
+rest.httpStatus.502,Bad Gateway,Bad Gateway,same_as_english
+rest.httpStatus.503,Service Unavailable,Service Unavailable,same_as_english
+rest.httpStatus.504,Gateway Time-out,Gateway Time-out,same_as_english
+rest.httpStatus.505,HTTP Version not supported,HTTP Version not supported,same_as_english
+rest.httpStatusMessage.100,Continue — {0},Continue — {0},same_as_english
+rest.httpStatusMessage.101,Switching Protocols — {0},Switching Protocols — {0},same_as_english
+rest.httpStatusMessage.200,OK — {0},OK — {0},same_as_english
+rest.httpStatusMessage.201,Created — {0},Created — {0},same_as_english
+rest.httpStatusMessage.202,Accepted — {0},Accepted — {0},same_as_english
+rest.httpStatusMessage.203,Non-Authoritative Information — {0},Non-Authoritative Information — {0},same_as_english
+rest.httpStatusMessage.204,No Content — {0},No Content — {0},same_as_english
+rest.httpStatusMessage.205,Reset Content — {0},Reset Content — {0},same_as_english
+rest.httpStatusMessage.206,Partial Content — {0},Partial Content — {0},same_as_english
+rest.httpStatusMessage.300,Multiple Choices — {0},Multiple Choices — {0},same_as_english
+rest.httpStatusMessage.301,Moved Permanently — {0},Moved Permanently — {0},same_as_english
+rest.httpStatusMessage.302,Found — {0},Found — {0},same_as_english
+rest.httpStatusMessage.303,See Other — {0},See Other — {0},same_as_english
+rest.httpStatusMessage.304,Not Modified — {0},Not Modified — {0},same_as_english
+rest.httpStatusMessage.305,Use Proxy — {0},Use Proxy — {0},same_as_english
+rest.httpStatusMessage.307,Temporary Redirect — {0},Temporary Redirect — {0},same_as_english
+rest.httpStatusMessage.400,Bad Request — {0},Bad Request — {0},same_as_english
+rest.httpStatusMessage.401,Unauthorized — {0},Unauthorized — {0},same_as_english
+rest.httpStatusMessage.402,Payment Required — {0},Payment Required — {0},same_as_english
+rest.httpStatusMessage.403,Access denied — {0},Access denied — {0},same_as_english
+rest.httpStatusMessage.404,Not Found — {0},Not Found — {0},same_as_english
+rest.httpStatusMessage.405,Method Not Allowed — {0},Method Not Allowed — {0},same_as_english
+rest.httpStatusMessage.406,Not Acceptable — {0},Not Acceptable — {0},same_as_english
+rest.httpStatusMessage.407,Proxy Authentication Required — {0},Proxy Authentication Required — {0},same_as_english
+rest.httpStatusMessage.408,Request Time-out — {0},Request Time-out — {0},same_as_english
+rest.httpStatusMessage.409,Conflict — {0},Conflict — {0},same_as_english
+rest.httpStatusMessage.410,Gone — {0},Gone — {0},same_as_english
+rest.httpStatusMessage.411,Length Required — {0},Length Required — {0},same_as_english
+rest.httpStatusMessage.412,Precondition Failed — {0},Precondition Failed — {0},same_as_english
+rest.httpStatusMessage.413,Request Entity Too Large — {0},Request Entity Too Large — {0},same_as_english
+rest.httpStatusMessage.414,Request-URI Too Large — {0},Request-URI Too Large — {0},same_as_english
+rest.httpStatusMessage.415,Unsupported Media Type — {0},Unsupported Media Type — {0},same_as_english
+rest.httpStatusMessage.416,Requested range not satisfiable — {0},Requested range not satisfiable — {0},same_as_english
+rest.httpStatusMessage.417,Expectation Failed — {0},Expectation Failed — {0},same_as_english
+rest.httpStatusMessage.422,Unprocessable Entity — {0},Unprocessable Entity — {0},same_as_english
+rest.httpStatusMessage.500,Internal Server Error — {0},Internal Server Error — {0},same_as_english
+rest.httpStatusMessage.501,Not Implemented — {0},Not Implemented — {0},same_as_english
+rest.httpStatusMessage.502,Bad Gateway — {0},Bad Gateway — {0},same_as_english
+rest.httpStatusMessage.503,Service Unavailable — {0},Service Unavailable — {0},same_as_english
+rest.httpStatusMessage.504,Gateway Time-out — {0},Gateway Time-out — {0},same_as_english
+rest.httpStatusMessage.505,HTTP Version not supported — {0},HTTP Version not supported — {0},same_as_english
+rest.missingModelMapping,No model mapping for {0} to {1},No model mapping for {0} to {1},same_as_english
+permission.exception.doesNotHaveRequiredPermission,''{0}'' does not hold the required role,''{0}'' does not hold the required role,same_as_english
+permission.exception.doesNotHaveRequiredGrantedPermission,''{0}'' does not hold the required permission,''{0}'' does not hold the required permission,same_as_english
+permission.exception.notAuthenticated,Not authenticated,Not authenticated,same_as_english
+permission.exception.userIsDisabled,User is disabled,User is disabled,same_as_english
+permission.exception.mustBeAdmin,Must be administrator,Must be administrator,same_as_english
+permission.exception.event,User ''{0}'' does not have permission for the event,User ''{0}'' does not have permission for the event,same_as_english
